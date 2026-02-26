@@ -35,7 +35,7 @@ This project focused on:
 * Prevented users from altering enforced visual security policies.
 
 ## 📜 Local Audit Policy Configuration
-
+![Desc](https://github.com/DanielSantiago10/Networking-Security-Series-Projects/blob/main/Virtual%20Systems%20%26%20Secure%20Configuration%20Hardening/Audit%20Policy.png)
 * Enabled auditing of:
   * Logon events
   * Account management changes
