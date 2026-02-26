@@ -19,38 +19,44 @@ This project focused on:
 
 ## 🔧 Key Technical Deliverables
 ## 🔐 User Account Control (UAC) Hardening
-
 * Increased UAC enforcement to prevent silent privilege escalation.
 * Reduced risk of malware executing with elevated privileges.
+  
+![pic](https://github.com/DanielSantiago10/Networking-Security-Series-Projects/blob/main/Virtual%20Systems%20%26%20Secure%20Configuration%20Hardening/Images/UAC%20Hardening.png)
 
 ## 🔑 Local Password Policy Enforcement
-
 * Strengthened password complexity requirements.
 * Configured minimum length and password history.
 * Reduced susceptibility to brute-force and credential stuffing attacks.
 
-## 🖥️ Desktop Background Restrictions
+![pic](https://github.com/DanielSantiago10/Networking-Security-Series-Projects/blob/main/Virtual%20Systems%20%26%20Secure%20Configuration%20Hardening/Images/Password%20Policy.png)
 
+## 🖥️ Desktop Background Restrictions
 * Restricted non-admin users from modifying system configurations.
 * Prevented users from altering enforced visual security policies.
 
+![pic](https://github.com/DanielSantiago10/Networking-Security-Series-Projects/blob/main/Virtual%20Systems%20%26%20Secure%20Configuration%20Hardening/Images/Background%20Restrictions.png)
+
 ## 📜 Local Audit Policy Configuration
-![Desc](https://github.com/DanielSantiago10/Networking-Security-Series-Projects/blob/main/Virtual%20Systems%20%26%20Secure%20Configuration%20Hardening/Audit%20Policy.png)
 * Enabled auditing of:
   * Logon events
   * Account management changes
   * Policy modifications
 * Improved visibility into suspicious behavior and insider threats.
 
-## ⚠️ Logon Banner Configuration
+![pic](https://github.com/DanielSantiago10/Networking-Security-Series-Projects/blob/main/Virtual%20Systems%20%26%20Secure%20Configuration%20Hardening/Images/Audit%20Policy.png)
 
+## ⚠️ Logon Banner Configuration
 * Implemented legal logon warning requiring acknowledgment.
 * Strengthened legal defensibility and deterrence.
 
-## 🔥 Windows Firewall Profile Configuration
+![pic](https://github.com/DanielSantiago10/Networking-Security-Series-Projects/blob/main/Virtual%20Systems%20%26%20Secure%20Configuration%20Hardening/Images/Logon%20Banner.png)
 
+## 🔥 Windows Firewall Profile Configuration
 * Modified default firewall profiles.
 * Ensured secure baseline traffic filtering.
+
+![pic](https://github.com/DanielSantiago10/Networking-Security-Series-Projects/blob/main/Virtual%20Systems%20%26%20Secure%20Configuration%20Hardening/Images/Firewall%20Profile.png)
 
 ## 🧠 Conceptual Deep Dive: Virtualization & Sandboxing
 
