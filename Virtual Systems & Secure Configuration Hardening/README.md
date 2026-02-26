@@ -52,7 +52,7 @@ This project focused on:
 * Modified default firewall profiles.
 * Ensured secure baseline traffic filtering.
 
-🧠 Conceptual Deep Dive: Virtualization & Sandboxing
+## 🧠 Conceptual Deep Dive: Virtualization & Sandboxing
 
 A major component of this project was understanding virtualization as a security control, not just an infrastructure tool.
 
@@ -68,7 +68,7 @@ A major component of this project was understanding virtualization as a security
 * Virtual sandbox evasion techniques reduce effectiveness.
 * Reduced stealth in certain sandbox implementations.
 
-💡 How This Relates to Cybersecurity
+## 💡 How This Relates to Cybersecurity
 
 This project reflects real-world security baseline implementation tasks performed by:
 
